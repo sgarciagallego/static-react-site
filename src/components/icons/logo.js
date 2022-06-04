@@ -3,8 +3,8 @@ import * as React from 'react';
 const SiteIcon = () => {
   return (
     <svg
-      width="234"
-      height="230"
+      width="50"
+      height="48"
       viewBox="0 0 234 230"
       fill="none"
       xmlns="http://www.w3.org/2000/svg">
