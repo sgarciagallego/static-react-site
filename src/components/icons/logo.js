@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-const SiteIcon = () => {
+const Logo = () => {
   return (
     <svg
       width="50"
@@ -19,4 +19,4 @@ const SiteIcon = () => {
   )
 }
 
-export default SiteIcon;
+export default Logo;
